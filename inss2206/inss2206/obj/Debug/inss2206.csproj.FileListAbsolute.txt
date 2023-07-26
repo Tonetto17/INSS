@@ -1,0 +1,11 @@
+C:\Users\giovanna.ctonetto\source\repos\inss2206\inss2206\bin\Debug\inss2206.exe.config
+C:\Users\giovanna.ctonetto\source\repos\inss2206\inss2206\bin\Debug\inss2206.exe
+C:\Users\giovanna.ctonetto\source\repos\inss2206\inss2206\bin\Debug\inss2206.pdb
+C:\Users\giovanna.ctonetto\source\repos\inss2206\inss2206\obj\Debug\inss2206.csproj.AssemblyReference.cache
+C:\Users\giovanna.ctonetto\source\repos\inss2206\inss2206\obj\Debug\inss2206.csproj.SuggestedBindingRedirects.cache
+C:\Users\giovanna.ctonetto\source\repos\inss2206\inss2206\obj\Debug\inss2206.Form1.resources
+C:\Users\giovanna.ctonetto\source\repos\inss2206\inss2206\obj\Debug\inss2206.Properties.Resources.resources
+C:\Users\giovanna.ctonetto\source\repos\inss2206\inss2206\obj\Debug\inss2206.csproj.GenerateResource.cache
+C:\Users\giovanna.ctonetto\source\repos\inss2206\inss2206\obj\Debug\inss2206.csproj.CoreCompileInputs.cache
+C:\Users\giovanna.ctonetto\source\repos\inss2206\inss2206\obj\Debug\inss2206.exe
+C:\Users\giovanna.ctonetto\source\repos\inss2206\inss2206\obj\Debug\inss2206.pdb
